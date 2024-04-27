@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "The Lost Keys",
+      "author": "Mark Twain",
+      "image" : "https://images.unsplash.com/photo-1553991562-9f24b119ff51?q=80&w=1939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A humorous tale about a man who goes on an adventure to find his lost keys.",
+      "story": "Once upon a time in a quaint little town, there lived a man named Mr. Smith. Mr. Smith was notorious for losing things, but one day he lost something particularly important - his keys. Determined to find them, Mr. Smith embarked on a wild adventure that took him through the streets of the town, into the depths of the forest, and even across a raging river. Along the way, he encountered all sorts of colorful characters, from mischievous squirrels to helpful old ladies. But despite his best efforts, Mr. Smith could not find his keys. In the end, he realized that the keys were in his pocket all along, and he had been searching for them in vain. The story teaches us that sometimes the things we're looking for are right in front of us, if only we take the time to look."
+    },
+    {
+      "id": 2,
+      "title": "The Magic Coin",
+      "author": "Hans Christian Andersen",
+      "image" : "https://images.unsplash.com/photo-1508970057347-0524a45ebdff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A heartwarming tale about a young girl who discovers a magical coin that changes her life.",
+      "story": "In a faraway kingdom, there lived a young girl named Lily. Lily was poor but kind-hearted, and she spent her days dreaming of a better life. One day, while she was out collecting firewood in the forest, she stumbled upon a shiny coin lying on the ground. Little did she know, this was no ordinary coin - it was a magic coin that granted wishes. Overjoyed, Lily made a wish for happiness and prosperity. To her amazement, her wish came true! Suddenly, her tiny cottage was transformed into a magnificent mansion, and she became the talk of the town. But as time passed, Lily realized that true happiness couldn't be bought with magic. What she really wanted was to share her newfound wealth with others and make a positive impact on the world. And so, she used her magic coin to bring joy and happiness to everyone around her, proving that the greatest magic of all is the magic of kindness."
+    },
+    {
+      "id": 3,
+      "title": "The Enchanted Forest",
+      "author": "J.K. Rowling",
+      "image":"https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A thrilling adventure about a group of young wizards who discover a hidden forest full of secrets.",
+      "story": "Deep in the heart of the wizarding world, there lies a mysterious forest that few dare to enter. Legend has it that the forest is enchanted, filled with magical creatures and hidden treasures. One day, a group of young wizards set out to explore the forest, eager to uncover its secrets. As they ventured deeper into the woods, they encountered all manner of fantastical beings, from mischievous pixies to majestic unicorns. But the real magic of the forest lay in its ability to challenge the young wizards and test their courage, wisdom, and loyalty. Along the way, they learned valuable lessons about friendship, bravery, and the power of love. And when they emerged from the forest, they were forever changed, their hearts filled with wonder and awe at the beauty of the world around them."
+    },
+    {
+      "id": 4,
+      "title": "The Starlight Cafe",
+      "author": "Haruki Murakami",
+      "image" : "https://images.unsplash.com/photo-1540224769541-7e6e20a42330?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A surreal tale about a mysterious cafe that appears only at night and serves otherworldly dishes.",
+      "story": "On the outskirts of town, hidden away from prying eyes, there stands a quaint little cafe known as the Starlight Cafe. But this is no ordinary cafe - it appears only at night, and those who stumble upon it find themselves transported to a world of magic and mystery. Inside, the cafe is filled with the soft glow of starlight, and the air is thick with the scent of exotic spices and herbs. The menu is unlike anything you've ever seen, with dishes that defy imagination and tantalize the taste buds. From moonlit souffles to stardust smoothies, each item on the menu is more enchanting than the last. But the true magic of the Starlight Cafe lies in its ability to bring people together, to create connections and memories that last a lifetime. And so, night after night, people from all walks of life gather at the cafe to share stories, laughter, and dreams, united by their love of good food and great company."
+    },
+    {
+      "id": 5,
+      "title": "The Timekeeper's Tale",
+      "author": "Mitch Albom",
+      "image" : "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An inspiring story about a man who discovers the true value of time.",
+      "story": "In a world where time is precious and fleeting, there lived a man known as the Timekeeper. His job was to keep track of time, to ensure that every moment passed exactly as it should. But as the years went by, the Timekeeper grew weary of his duties, longing for a life free from the constraints of time. One day, he made a bold decision - to stop time altogether. At first, the Timekeeper reveled in his newfound freedom, indulging in all the pleasures that life had to offer. But soon he realized that without time, life lost its meaning. Days blurred into weeks, months into years, and the Timekeeper found himself adrift in a timeless void. Desperate to set things right, he embarked on a quest to restore time to its rightful place. Along the way, he encountered all manner of challenges and obstacles, but he never lost sight of his goal. And in the end, he learned a valuable lesson - that time is not something to be feared or avoided, but embraced and cherished for the precious gift that it is."
+    },
+    {
+      "id": 6,
+      "title": "The Painter's Dream",
+      "author": "Pablo Neruda",
+      "image": "https://images.unsplash.com/photo-1560837616-fee1f3d8753a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A poetic tale about a painter who dreams of capturing the beauty of the world on canvas.",
+      "story": "In the quiet hours of the night, when the world is fast asleep, there lived a painter who dreamed of painting the most beautiful painting the world had ever seen. With each stroke of his brush, he sought to capture the essence of life itself - the vibrant colors of the sunset, the gentle sway of the trees, the delicate beauty of a flower in bloom. But no matter how hard he tried, the painter could never quite capture the magic of the world on canvas. Frustrated and disillusioned, he began to lose hope that his dream would ever come true. But then, one night, as he lay beneath the stars, the painter had a revelation. He realized that the true beauty of the world could never be captured in a painting, for it was ever-changing and infinite in its complexity. And so, he put down his brush and embraced the world as it was, finding beauty and inspiration in the simple moments of everyday life."
+    }
+  ]
+  
